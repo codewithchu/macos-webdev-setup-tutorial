@@ -7,19 +7,28 @@ https://www.figma.com/
 
 Shortcuts I find useful
 
-| Shortcut             | Desc              |
-| -------------------- | ----------------- |
-| space                | Pan               |
-| cmd + space          | Zoom In           |
-| cmd + space + option | Zoom Out          |
-| f                    | Frame             |
-| v                    | Move              |
-| r                    | Rectangle         |
-| cmd + option + k     | Create Components |
-| cmd + g              | Group             |
-| cmd + shift + g      | Ungroup           |
-| cmd + alt + c        | Copy Styles       |
-| cmd + alt + v        | Paste Styles      |
+| Shortcut           | Desc                  |
+| ------------------ | --------------------- |
+| `space`            | Pan                   |
+| `z` + `click`      | Zoom In               |
+| `z`+ `⌥` + `click` | Zoom Out              |
+| `⇧` + `1`          | Zoom Out All          |
+| `⇧` + `2`          | Zoom Out On Selection |
+| `f`                | Frame Tool            |
+| `v`                | Move Tool             |
+| `r`                | Rectangle Tool        |
+| `⌘` + `⌥` + `k`    | Create Components     |
+| `⌘` + `g`          | Group                 |
+| `⌘` + `⌥`+ `g`     | Frame Group           |
+| `⌘` + `⇧` + `g`    | Ungroup               |
+| `⌘` + `⌥` + `c`    | Copy Styles           |
+| `⌘` + `⌥` + `v`    | Paste Styles          |
+
+### Keyboard Legend
+
+| command | option | shift | control | delete |
+| ------- | ------ | ----- | ------- | ------ |
+| `⌘`     | `⌥`    | `⇧`   | `⌃`     | `⌫`    |
 
 ## Plugins
 

@@ -17,14 +17,20 @@ Shortcuts I find useful
 
 | Shortcut             | Screen      |
 | -------------------- | ----------- |
-| crtl + option left   | left half   |
-| crtl + option right  | right half  |
-| crtl + option up     | top half    |
-| crtl + option down   | bottom half |
-| crtl + option return | full        |
-| crtl + option delete | reset       |
-| crtl + option e      | 2/3         |
-| crtl + option d      | 1/3         |
+| `⌃` + `⌥` + `←`      | left half   |
+| `⌃` + `⌥` + `→`      | right half  |
+| `⌃` + `⌥` + `↑`      | top half    |
+| `⌃` + `⌥` + `↓`      | bottom half |
+| `⌃` + `⌥` + `return` | fullscreen  |
+| `⌃` + `⌥` + `⌫`      | reset       |
+| `⌃` + `⌥` + `e`      | 2/3         |
+| `⌃` + `⌥` + `d`      | 1/3         |
+
+### Keyboard Legend
+
+| command | option | shift | control | delete |
+| ------- | ------ | ----- | ------- | ------ |
+| `⌘`     | `⌥`    | `⇧`   | `⌃`     | `⌫`    |
 
 ## Table of Content
 

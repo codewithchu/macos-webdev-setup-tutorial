@@ -1,6 +1,6 @@
 # MacOS WebDev Setup Tutorial Series
 
-Instructions for [CodeWithChu](https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw 'Subscribe to CodeWithChu Youtube Channel') MacOS Web Development Setup Tutorial Series on YouTube Channel.
+Instructions for [CodeWithChu](https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw 'Subscribe to CodeWithChu Youtube Channel') MacOS Web Development Setup Tutorial Series on YouTube.
 
 ## Table of Content
 

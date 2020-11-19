@@ -19,16 +19,22 @@ https://marketplace.visualstudio.com/VSCode
 
 Shortcuts I find useful
 
-| Shortcut                 | Desc                          |
-| ------------------------ | ----------------------------- |
-| cmd + shift + P          | Show All Commands             |
-| cmd + ,                  | Preferences                   |
-| control + `              | Terminal                      |
-| option + z               | Toggle Wordwrap               |
-| cmd + option up/down     | Create multiple cursors       |
-| option + mouse click     | Create multiple cursors       |
-| cmd + shift + l          | Adds curor for every instance |
-| option + shift + up/down | Duplicate Code                |
+| Shortcut              | Desc                                  |
+| --------------------- | ------------------------------------- |
+| `⌘` + `⇧` + `P`       | Show All Commands                     |
+| `⌘` + `,`             | Preferences                           |
+| `⌃` + `               | Terminal                              |
+| `⌥` + `z`             | Toggle Wordwrap                       |
+| `⌘` + `⌥` + `↑` / `↓` | Create multiple cursors /w arrow keys |
+| `⌥` + `click`         | Create multiple cursors /w mouse      |
+| `⌘` + `⇧` + `l`       | Adds curor for every instance         |
+| `⌥` + `⇧` + `↑` / `↓` | Duplicate Code                        |
+
+### Keyboard Legend
+
+| command | option | shift | control | delete |
+| ------- | ------ | ----- | ------- | ------ |
+| ⌘       | ⌥      | ⇧     | ⌃       | ⌫      |
 
 ## Settings
 
