@@ -67,7 +67,7 @@ JSON setting file
     "prettier.singleQuote": true,
     "prettier.useTabs": true,
     "editor.fontSize": 16,
-    "terminal.integrated.fontFamily": "MesloLGS NF"
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 16
 }
 ```
